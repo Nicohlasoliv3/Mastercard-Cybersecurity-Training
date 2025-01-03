@@ -15,16 +15,15 @@ We test our staff every month by sending a fake phishing email that is made to l
 We use the results of the simulated test to help us design and implement future training.
 
 ### Skills Learned
+- Phishing Analysis & Threat Identification – Recognized and reported phishing threats to prevent security breaches.
 
+- Security Awareness Training Implementation – Designed and deployed security awareness training programs.
 
+- Risk Analysis & Business Impact Assessment – Evaluated security risks and identified areas needing enhanced security measures.
 
-### Tools Used
+- Cybersecurity Policy & Compliance – Ensured adherence to best security practices and organizational policies.
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
-
-## Task
+- Incident Reporting & Mitigation – Developed actionable security recommendations to mitigate potential cyber threats.
 
 ## Task 1: Design A Phising Email
 Step 1: Improve Current Phising Email
