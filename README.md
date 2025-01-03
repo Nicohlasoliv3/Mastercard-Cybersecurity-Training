@@ -28,8 +28,11 @@ We use the results of the simulated test to help us design and implement future 
 
 ## Task 1: Design A Phising Email
 Step 1: Improve Current Phising Email
+
 <img width="690" alt="Screenshot 2025-01-03 at 12 30 04 PM" src="https://github.com/user-attachments/assets/36efefab-4011-46bd-9ad0-143bc49b0d11" />
+
 ## Updated Email
+
 <img width="680" alt="Screenshot 2025-01-03 at 12 31 24 PM" src="https://github.com/user-attachments/assets/3c01770d-eab7-4259-90f4-272d83297f0d" />
 
 # Key Diffrences Betwwen Emails 
@@ -53,9 +56,12 @@ Email 2: Uses a deceptive URL structure (e.g., "Https://Masterfix.com/password/a
 Overview:
 identify which areas of the business need more awareness about phishing, and
 design and implement the appropriate training for those teams to lower our risk of an attack.
+
 <img width="687" alt="Screenshot 2025-01-03 at 12 41 18 PM" src="https://github.com/user-attachments/assets/ca7fa180-5a77-47dc-9512-703ae06284c7" />
+
 ## Task 1: Discover Which teams performed poorly in the phishing simulation
 HR & Marketing Teams
+
 ## Task 2: create a short presentation  providing some awareness and training materials for the two teams that appear to be most susceptible. This will help us improve the security awareness of the teams that performed poorly in this campaign.
 <img width="762" alt="Screenshot 2025-01-03 at 12 46 26 PM" src="https://github.com/user-attachments/assets/5a01cb1a-d069-4893-88e4-d187a7a0857c" />
 <img width="760" alt="Screenshot 2025-01-03 at 12 46 43 PM" src="https://github.com/user-attachments/assets/7b3be71e-292e-453e-b9ff-f54f6cd9ab5c" />
