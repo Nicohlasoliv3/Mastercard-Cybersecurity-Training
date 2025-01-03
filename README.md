@@ -50,5 +50,10 @@ Email 1: Links to Wikipedia's phishing article (which is harmless, likely an exa
 Email 2: Uses a deceptive URL structure (e.g., "Https://Masterfix.com/password/account/restore"). Attackers often use domains that resemble legitimate ones but with subtle misspellings or extra words.
 
 ## Step 2: Interpet phishing simulation results
-
-
+Overview:
+identify which areas of the business need more awareness about phishing, and
+design and implement the appropriate training for those teams to lower our risk of an attack.
+<img width="687" alt="Screenshot 2025-01-03 at 12 41 18 PM" src="https://github.com/user-attachments/assets/ca7fa180-5a77-47dc-9512-703ae06284c7" />
+## Task 1: Discover Which teams performed poorly in the phishing simulation
+HR & Marketing Teams
+## Task 2: create a short presentation  providing some awareness and training materials for the two teams that appear to be most susceptible. This will help us improve the security awareness of the teams that performed poorly in this campaign.
