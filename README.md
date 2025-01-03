@@ -57,3 +57,8 @@ design and implement the appropriate training for those teams to lower our risk 
 ## Task 1: Discover Which teams performed poorly in the phishing simulation
 HR & Marketing Teams
 ## Task 2: create a short presentation  providing some awareness and training materials for the two teams that appear to be most susceptible. This will help us improve the security awareness of the teams that performed poorly in this campaign.
+<img width="762" alt="Screenshot 2025-01-03 at 12 46 26 PM" src="https://github.com/user-attachments/assets/5a01cb1a-d069-4893-88e4-d187a7a0857c" />
+<img width="760" alt="Screenshot 2025-01-03 at 12 46 43 PM" src="https://github.com/user-attachments/assets/7b3be71e-292e-453e-b9ff-f54f6cd9ab5c" />
+<img width="760" alt="Screenshot 2025-01-03 at 12 46 58 PM" src="https://github.com/user-attachments/assets/2e81c873-6041-4164-a966-3d10a56ba05d" />
+<img width="762" alt="Screenshot 2025-01-03 at 12 47 12 PM" src="https://github.com/user-attachments/assets/03e674ca-0e62-4f76-985f-b7fdd0b144f6" />
+
